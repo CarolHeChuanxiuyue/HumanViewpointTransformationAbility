@@ -1,0 +1,33 @@
+﻿TrialID,AngleBin,PerspectiveShift,Standing,Facing,Target,PointingAngle,PointingQuadrant
+1,0-45,0,bell,traffic light,drum,336.5,L
+2,0-45,20.5,tree,basketball,wheel,2.5,F
+3,0-45,24.5,basketball,wheel,trash can,68.5,R
+4,0-45,35.5,drum,traffic light,stool,193,B
+5,45-90,46.5,stool,drum,wheel,311,L
+6,45-90,67.5,tree,trash can,bell,25,F
+7,45-90,87,drum,trash can,Tree,146.5,B
+8,45-90,88.5,barrell,traffic light,bell,40,R
+9,90-135,100,barrell,trash can,Tree,64.5,R
+10,90-135,110.5,wheel,traffic light,barrell,144,B
+11,90-135,116.5,barrell,basketball,stool,13.5,F
+12,90-135,127,barrell,bell,Wheel,306,L
+13,135-180,133,basketball,bell,tree,67.5,R
+14,135-180,164.5,barrell,tree,basketball,311.5,L
+15,135-180,179.5,wheel,stool,drum,333.5,F
+16,135-180,180,traffic light,bell,Wheel,109.5,R
+17,180-225,200.5,basketball,tree,wheel,184,B
+18,180-225,203,wheel,tree,drum,310,L
+19,180-225,215,traffic light,drum,barrell,54.5,R
+20,180-225,215.5,trash can,bell,Tree,34,F
+21,225-270,227.5,drum,stool,trash can,220,B
+22,225-270,234,drum,tree,barrell,55,R
+23,225-270,248,trash can,tree,Wheel,50,L
+24,225-270,269,traffic light,barrell,basketball,342,F
+25,270-315,280,trash can,barrell,Wheel,18,F
+26,270-315,282,drum,basketball,traffic light,116,R
+27,270-315,304,bell,stool,tree,331.5,L
+28,270-315,310,stool,barrell,traffic light,89.5,R
+29,315-360,327,stool,basketball,trash can,106,R
+30,315-360,332,drum,wheel,bell,185,B
+31,315-360,344,tree,barrell,basketball,35,F
+32,315-360,357,stool,wheel,barrell,312.5,L
